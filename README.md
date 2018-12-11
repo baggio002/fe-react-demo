@@ -4,11 +4,11 @@ I impletment this demo for tech test using ReactJS and Bootstrap.
 
 Actually, I do not have reactjs knowledge and prefer to use AngularJS before I got this FE exam, but I saw "React is preferred.", I began to study and do prictice for ReactJs. After 2 days, complete, I think I have already had Reactjs ability.
 
-We can use "npm start" command to check the website in node environment and under the project root folder.
+Under the project root folder, we can use "npm start" command to play the website in node environment.
 
 The index.html is in the public folder and all js and css code are in the src floder.
 
-I understand that there are still many problems in this demo, because I am still not familiar with the reactjs.
+I understand that there are still some problems in this demo, because I am still not very familiar with the reactjs.
 
 --------------------- the quetion-----------------------------------------------------------------
 
